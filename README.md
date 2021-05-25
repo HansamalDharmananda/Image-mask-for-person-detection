@@ -1,6 +1,6 @@
 # Image-mask-for-person-detection
 
-## You need to upload the "kaggle.json" file to the google collab when prompting the running code , that contain the data set file in kaggle
+<p color="red">You need to upload the "kaggle.json" file to the google collab when prompting the running code, that contains the data set file in Kaggle</p>
 
 <table border="0" width="50%">
   <tr>
