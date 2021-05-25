@@ -1,13 +1,4 @@
 # Image-mask-for-person-detection
-  <style>
-        #one{
-            color: blueviolet;
-        }
-        .redclass{
-            color: crimson;
-        }
-    </style>
-
 
 <h1>You need to upload the "kaggle.json" file to the google collab when prompting the running code, that contains the data set file in Kaggle</h1>
 
